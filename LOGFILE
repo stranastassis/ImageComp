@@ -1,0 +1,9 @@
+Log file created on 2014-02-16.18:40:28
+2014-02-16.18:40:28 - class imaging::PPMImageReader : file Image02.ppm opened
+2014-02-16.18:40:28 - class imaging::PPMImageReader : Reading Header. . .
+2014-02-16.18:40:28 - class imaging::PPMImageReader : Header is in valid format. . .
+2014-02-16.18:40:28 - class imaging::PPMImageReader : Reading image data. . .
+2014-02-16.18:40:28 - class imaging::PPMImageReader : Done reading image data.
+2014-02-16.18:40:32 - class imaging::CCIImageWriter : file qq.cci opened
+2014-02-16.18:40:32 - class imaging::CCIImageWriter : Writing Header. . .
+2014-02-16.18:40:32 - class imaging::CCIImageWriter : Done writing h eader
